@@ -1,5 +1,5 @@
 # opencv-arduino
-Use Opencv python with Arduin uno and LCD
+Use Opencv python with Arduino uno and LCD
 
 
 # pin configurations :
